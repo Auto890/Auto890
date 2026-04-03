@@ -29,6 +29,12 @@ I am a 3rd-year Computer Science student
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
+## 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 ---
 
 ## 📌 Portfolio
