@@ -12,3 +12,5 @@ A student who is passionate about programming, data, and technology.
 🖥 VS Code  
 ⚡ Arduino / ESP32  
 🗄 MySQL
+
+https://img.shields.io/open-vsx/dt/java/:extension
