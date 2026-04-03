@@ -1,16 +1,36 @@
-## 👋 About Me
-Hi, I'm weerapat unkaeo👋  
-A student who is passionate about programming, data, and technology.
+# 👋 Hi, I'm Your Name
 
-## 🧠 Skills
-💻 Programming: Java, HTML, CSS  
-🗄 Database: SQL, MySQL  
-🌐 Web Development
+## 👨‍💻 About Me
+I am a 3rd-year Computer Science student...
+- 🔭 Interested in Full-Stack
+- 🎮 Game Development
+- 🚀 Love learning new tech
 
-## 🛠 Tools
-🔧 Git & GitHub  
-🖥 VS Code  
-⚡ Arduino / ESP32  
-🗄 MySQL
+---
 
-https://img.shields.io/open-vsx/dt/java/:extension
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+---
+
+## 📌 Portfolio
+[Click here](https://your-portfolio-link.com)
+
+## 📄 Resume
+[Click here](https://your-resume-link.com)
