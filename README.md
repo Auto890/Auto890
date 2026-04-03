@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Weerapat unkaeo
 
 ## 👨‍💻 About Me
-I am a 3rd-year Computer Science student...
-- 🔭 Interested in Full-Stack
+I am a 3rd-year Computer Science student
+- 🔭 Interested in Data Analyst
 - 🎮 Game Development
 - 🚀 Love learning new tech
 
@@ -20,6 +20,7 @@ I am a 3rd-year Computer Science student...
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrapt-black?style=for-the-badge)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
