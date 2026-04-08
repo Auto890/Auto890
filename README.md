@@ -35,8 +35,8 @@
 ---
 
 ## 📌 Portfolio
-[Click here](https://auto890.github.io/Portfolio/)
+[Portfolio](https://auto890.github.io/Portfolio/)
 
 
 ## 📄 Resume
-[Click here](https://your-resume-link.com)
+[Resume](https://drive.google.com/file/d/1GuhSflQmmFKlI4XlO0Tf06fNg-gJfy1x/view?usp=drive_link)
