@@ -87,5 +87,5 @@ I have a foundation in multiple programming languages and a fast learning abilit
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com  
+- Email: auto15282555@gmail.com  
 - GitHub: https://github.com/auto890
