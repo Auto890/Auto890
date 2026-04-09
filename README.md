@@ -82,7 +82,7 @@ I have a foundation in multiple programming languages and a fast learning abilit
 ---
 
 ## 📄 Resume
-📄 https://drive.google.com/file/d/1GuhSflQmmFKlI4XlO0Tf06fNg-gJfy1x/view?usp=drive_link
+📄 https://drive.google.com/file/d/1GuhSflQmmFKlI4XlO0Tf06fNg-gJfy1x/view?usp=sharing
 
 ---
 
