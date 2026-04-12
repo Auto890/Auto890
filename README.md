@@ -65,11 +65,11 @@ I have a foundation in multiple programming languages and a fast learning abilit
 ## 📂 Featured Projects
 
 ### 📊 COVID-19 Risk Analysis Dashboard
--Developed an interactive dashboard using Power BI to analyze COVID-19 risk distribution in Thailand
--Performed data cleaning using Power Query (handled missing values, removed duplicates, standardized data)
--Analyzed risk patterns across provinces, gender, and risk factors
--Identified key insights such as high-risk concentration in Bangkok and major causes of infection
--Designed visualizations including bar charts, pie charts, and comparative analysis
+- Developed an interactive dashboard using Power BI to analyze COVID-19 risk distribution in Thailand
+- Performed data cleaning using Power Query (handled missing values, removed duplicates, standardized data)
+- Analyzed risk patterns across provinces, gender, and risk factors
+- Identified key insights such as high-risk concentration in Bangkok and major causes of infection
+- Designed visualizations including bar charts, pie charts, and comparative analysis
 
 🔗 GitHub: https://github.com/Auto890/covid-risk-analysis-dashboard 
 
