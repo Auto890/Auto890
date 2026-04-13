@@ -73,10 +73,15 @@ I have a foundation in multiple programming languages and a fast learning abilit
 
 🔗 GitHub: https://github.com/Auto890/covid-risk-analysis-dashboard 
 
-### 📈 Data Analysis with Python
-- Cleaned and analyzed datasets using Pandas  
-- Visualized data using Matplotlib / Seaborn  
-- Extracted key insights from raw data  
+### 🎬 Movie Rental System (Web Application)
+- Developed a full-stack web application using PHP and MySQL
+- Implemented user authentication system (Register / Login)
+- Designed features such as movie browsing, cart system, and checkout process
+- Built an admin panel to manage movies and users
+- Structured the project using modular components (config, pages, admin, assets)
+- Focused on user experience with responsive UI design
+
+🔗 GitHub: https://github.com/Auto890/movie-rental
 
 ---
 
