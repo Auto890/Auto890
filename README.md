@@ -81,7 +81,7 @@ I have a foundation in multiple programming languages and a fast learning abilit
 - Structured the project using modular components (config, pages, admin, assets)
 - Focused on user experience with responsive UI design
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Auto890/movie_rental
 
 ---
 
