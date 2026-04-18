@@ -92,6 +92,7 @@ I have a foundation in multiple programming languages and a fast learning abilit
 - Created modular and reusable components (Dashboard, AddForm, PersonList) for better maintainability
 
 🔗 GitHub: https://github.com/Auto890/Footballteam
+
 ---
 
 ## 📌 Portfolio
