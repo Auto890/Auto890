@@ -83,6 +83,15 @@ I have a foundation in multiple programming languages and a fast learning abilit
 
 🔗 GitHub: https://github.com/Auto890/movie_rental
 
+### ⚽ Football Club Management System
+- Developed a full-stack web application using React, PHP, and MySQL to manage football club members
+- Implemented core CRUD operations (Create, Read, Delete) through REST-like API integration
+- Built a responsive frontend with React using Hooks (useState, useEffect) for state management
+- Integrated Axios for asynchronous data fetching and real-time updates from the backend
+- Designed and structured a relational database to store player information efficiently
+- Created modular and reusable components (Dashboard, AddForm, PersonList) for better maintainability
+
+🔗 GitHub: https://github.com/Auto890/Footballteam
 ---
 
 ## 📌 Portfolio
