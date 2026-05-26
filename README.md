@@ -51,6 +51,7 @@ I enjoy building web applications from frontend to backend, analyzing data to un
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![Postgresql](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge)
 
 ---
 
